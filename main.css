@@ -1,0 +1,39 @@
+body{
+    background-color: #999999;
+}
+ul{
+    list-style-type: none;  
+}
+li{
+    padding: 5px;
+}
+div.float{
+    width: 30%;
+    float: left;
+    margin: 10px; 
+    color: white; 
+    
+ 
+}
+.vacation{
+    text-align: center;
+    background-color:cadetblue;
+   width: 70%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+}
+
+
+.container{
+    margin: 10px;
+    padding: 10px;
+}
+div#filter{
+    margin: 10px;
+    width: 100%;
+    float: left;
+ 
+}
+.highlight{
+    background-color: #333333;
+}
