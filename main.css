@@ -37,3 +37,7 @@ div#filter{
 .highlight{
     background-color: #333333;
 }
+/*starting next onload practice*/
+.confirmation .ticket{
+    display: none;
+}
